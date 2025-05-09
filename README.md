@@ -19,7 +19,7 @@ In the case that torchcam does not automatically download, pls run
 !pip install torchcam
 ```
 
-## 3. click "run all"
+## 3. Running the .ipynb file
 Before clicking "run all", pls double check that the dataset- 
 
 if extracted, both test and train folders should be in the same folder as the .ipynb file
