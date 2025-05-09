@@ -20,7 +20,7 @@ In the case that torchcam does not automatically download, pls run
 ```
 
 ## 3. Running the .ipynb file
-Before clicking "run all", pls double check that the dataset- 
+Before clicking running the file, pls double check that the dataset- 
 
 if extracted, both test and train folders should be in the same folder as the .ipynb file
 
