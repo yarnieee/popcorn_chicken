@@ -6,7 +6,7 @@ how to run:
 Please download the dataset from https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images?resource=download
 and place the dataset in the same folder as the .ipynb file.
 
-If you choose to not extract the zip file, pls uncomment the cell directly under Load Dataset in the .ipynb file.
+If you choose to not extract the zip file, pls uncomment the cell directly under Load Dataset in the .ipynb file by highlighting the entire cell and clicking (ctrl + /)
 
 
 ## 2. download requirements
